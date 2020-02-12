@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/deadline-manager/static/css/main.9f22a794.chunk.css",
-    "main.js": "/deadline-manager/static/js/main.2511afa9.chunk.js",
-    "main.js.map": "/deadline-manager/static/js/main.2511afa9.chunk.js.map",
-    "runtime-main.js": "/deadline-manager/static/js/runtime-main.f8a76301.js",
-    "runtime-main.js.map": "/deadline-manager/static/js/runtime-main.f8a76301.js.map",
-    "static/css/2.53280342.chunk.css": "/deadline-manager/static/css/2.53280342.chunk.css",
-    "static/js/2.9c456439.chunk.js": "/deadline-manager/static/js/2.9c456439.chunk.js",
-    "static/js/2.9c456439.chunk.js.map": "/deadline-manager/static/js/2.9c456439.chunk.js.map",
-    "index.html": "/deadline-manager/index.html",
-    "precache-manifest.1700767bcb7ff46bff4ac0b77e5cef6a.js": "/deadline-manager/precache-manifest.1700767bcb7ff46bff4ac0b77e5cef6a.js",
-    "service-worker.js": "/deadline-manager/service-worker.js",
-    "static/css/2.53280342.chunk.css.map": "/deadline-manager/static/css/2.53280342.chunk.css.map",
-    "static/css/main.9f22a794.chunk.css.map": "/deadline-manager/static/css/main.9f22a794.chunk.css.map",
-    "static/js/2.9c456439.chunk.js.LICENSE.txt": "/deadline-manager/static/js/2.9c456439.chunk.js.LICENSE.txt"
+    "main.css": "https://antoine-gannat.github.io/deadline-manager/static/css/main.9f22a794.chunk.css",
+    "main.js": "https://antoine-gannat.github.io/deadline-manager/static/js/main.1765aeff.chunk.js",
+    "main.js.map": "https://antoine-gannat.github.io/deadline-manager/static/js/main.1765aeff.chunk.js.map",
+    "runtime-main.js": "https://antoine-gannat.github.io/deadline-manager/static/js/runtime-main.fba7aaf5.js",
+    "runtime-main.js.map": "https://antoine-gannat.github.io/deadline-manager/static/js/runtime-main.fba7aaf5.js.map",
+    "static/css/2.53280342.chunk.css": "https://antoine-gannat.github.io/deadline-manager/static/css/2.53280342.chunk.css",
+    "static/js/2.9c456439.chunk.js": "https://antoine-gannat.github.io/deadline-manager/static/js/2.9c456439.chunk.js",
+    "static/js/2.9c456439.chunk.js.map": "https://antoine-gannat.github.io/deadline-manager/static/js/2.9c456439.chunk.js.map",
+    "index.html": "https://antoine-gannat.github.io/deadline-manager/index.html",
+    "precache-manifest.538ccb55684dba2a7c8e597dd8b33a15.js": "https://antoine-gannat.github.io/deadline-manager/precache-manifest.538ccb55684dba2a7c8e597dd8b33a15.js",
+    "service-worker.js": "https://antoine-gannat.github.io/deadline-manager/service-worker.js",
+    "static/css/2.53280342.chunk.css.map": "https://antoine-gannat.github.io/deadline-manager/static/css/2.53280342.chunk.css.map",
+    "static/css/main.9f22a794.chunk.css.map": "https://antoine-gannat.github.io/deadline-manager/static/css/main.9f22a794.chunk.css.map",
+    "static/js/2.9c456439.chunk.js.LICENSE.txt": "https://antoine-gannat.github.io/deadline-manager/static/js/2.9c456439.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f8a76301.js",
+    "static/js/runtime-main.fba7aaf5.js",
     "static/css/2.53280342.chunk.css",
     "static/js/2.9c456439.chunk.js",
     "static/css/main.9f22a794.chunk.css",
-    "static/js/main.2511afa9.chunk.js"
+    "static/js/main.1765aeff.chunk.js"
   ]
 }
