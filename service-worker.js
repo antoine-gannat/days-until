@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/deadline-manager/precache-manifest.c5501a6d161d60f9947e8e30c1cd69b0.js"
+  "/deadline-manager/precache-manifest.1700767bcb7ff46bff4ac0b77e5cef6a.js"
 );
 
 self.addEventListener('message', (event) => {
