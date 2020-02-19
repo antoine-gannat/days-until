@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://antoine-gannat.github.io/deadline-manager/precache-manifest.538ccb55684dba2a7c8e597dd8b33a15.js"
+  "https://antoine-gannat.github.io/deadline-manager/precache-manifest.8a54dd96d05828b316f1ab52b1eae734.js"
 );
 
 self.addEventListener('message', (event) => {
